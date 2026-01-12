@@ -1,0 +1,1 @@
+// get reverse of no   , then comapre with original  done 
